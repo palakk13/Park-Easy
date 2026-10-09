@@ -1,0 +1,4 @@
+#npm modules and node configs 
+node_modules
+package-lock.json
+
